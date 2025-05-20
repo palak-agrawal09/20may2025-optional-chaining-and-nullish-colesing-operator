@@ -13,5 +13,5 @@ let Company = {
 //1. default export
 //2. named export export {exportelement1,exportelement2,exportelement3....}
 // named export list
-
-export {Company};
+// named export list while renaming
+export {Company as firm};// Alias, urf
